@@ -34,7 +34,7 @@
     "@libphp/amazon-linux-2-v74": "latest"
   },
   "devDependencies": {
-    "@types/glob": "^7.1.2",
+    "@types/glob": "^8.1.0",
     "@types/node": "^12.12.47",
     "@vercel/build-utils": "^2.4.0",
     "jest": "^26.1.0",
